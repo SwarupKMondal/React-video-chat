@@ -11,10 +11,10 @@
 https://video-chat-app-wasi.netlify.app/
 
 ## Technology Used:
- **React-JS**
- **HTML**
- **CSS**
-**JavaScript**
+ **1.React-JS** <br>
+ **2.HTML** <br>
+ **3.CSS**<br>
+**4.JavaScript**
 
 Setup:
 
