@@ -8,8 +8,13 @@
  
  ## Live demo
  
-!https://video-chat-app-wasi.netlify.app/
+https://video-chat-app-wasi.netlify.app/
 
+## Technology Used:
+ **React-JS
+ **HTML
+ **CSS
+**JavaScript
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the development server
